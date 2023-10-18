@@ -34,10 +34,10 @@
       title = ""
       weight = 2
     [[en.menu.main]]
-      identifier = "categories"
+      identifier = "catefgories"
       pre = ""
       post = ""
-      name = "Categories"
+      name = "Categorfies"
       url = "/categories/"
       title = ""
       weight = 3

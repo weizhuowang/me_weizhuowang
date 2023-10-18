@@ -1,4 +1,4 @@
 baseURL = "https://weizhuowang.github.io/me_weizhuowang/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "LoveIt"
+theme = "DoIt"
