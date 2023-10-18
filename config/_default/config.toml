@@ -2,7 +2,7 @@ baseURL = "https://weizhuowang.github.io/me_weizhuowang/"
 # baseURL = "https://localhost"
 # languageCode = "en-us"
 # title = "My New Hugo Site"
-theme = "DoIt"
+theme = "LoveIt"
 
 # baseURL = "https://me.weizhuowang.com/"
 # theme
@@ -863,6 +863,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
+        #   avatar = "/images/avatar.png"
           avatarURL = "/images/avatar.png"
           title = ""
           subtitle = "Just a PhD Student"
