@@ -1,8 +1,8 @@
----
+<!-- ---
 title: "About Me"
 date: 2021-12-27T22:17:06-06:00
 draft: false
----
+--- -->
 
 ## About
 Hi! I'm a 2nd year Robotics PhD at Stanford University. I'm super fortunate to be co-advised by [Monroe Kennedy III](https://monroekennedy3.com) and [C. Karen Liu](https://profiles.stanford.edu/c-karen-liu).
