@@ -59,7 +59,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   name = "Ken Wang"
   email = "weizhuo2@stanford.edu"
   link = ""
-  avatar = "/images/avatar.png"
+  avatar = "./images/avatar.png"
 
 # Menu config
 # 菜单配置
@@ -262,7 +262,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = ""
+      avatarURL = "./images/avatar.png"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
@@ -609,7 +609,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "./images/avatar.png"
 
   # TypeIt config
   # TypeIt 配置
@@ -864,7 +864,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           enable = true
           gravatarEmail = ""
         #   avatar = "/images/avatar.png"
-          avatarURL = "/images/avatar.png"
+          avatarURL = "./images/avatar.png"
           title = ""
           subtitle = "Just a PhD Student"
           typeit = true
