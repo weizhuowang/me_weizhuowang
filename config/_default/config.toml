@@ -3,7 +3,7 @@ baseURL = "https://me.weizhuowang.com"
 # baseURL = "https://localhost"
 # languageCode = "en-us"
 # title = "My New Hugo Site"
-theme = "DoIt"
+theme = "LoveIt"
 
 # baseURL = "https://me.weizhuowang.com/"
 # theme
