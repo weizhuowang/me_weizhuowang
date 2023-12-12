@@ -3,7 +3,7 @@ baseURL = "https://me.weizhuowang.com"
 # baseURL = "https://localhost"
 # languageCode = "en-us"
 # title = "My New Hugo Site"
-theme = "LoveIt"
+theme = "DoIt"
 
 # baseURL = "https://me.weizhuowang.com/"
 # theme
@@ -156,7 +156,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = "<span style='color: gray; font-style: italic; font-size: 12px;'>Site is currently under development! Last updated Oct 17, 2023 </span><br><span style='color: gray; font-style: italic; font-size: 12px;'></span>"
+    custom = "<span style='color: gray; font-style: italic; font-size: 12px;'>Site is currently under development! Last updated Dec 12, 2023 </span><br><span style='color: gray; font-style: italic; font-size: 12px;'></span>"
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = false
