@@ -805,8 +805,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     hasCJKLanguage = false
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     [languages.en.menu]
+
       [[languages.en.menu.main]]
         weight = 1
+        identifier = "research"
+        pre = ""
+        post = ""
+        name = "Research"
+        url = "/research/"
+        title = ""
+      [[languages.en.menu.main]]
+        weight = 2
         identifier = "posts"
         pre = ""
         post = ""
@@ -814,7 +823,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/posts/"
         title = ""
       [[languages.en.menu.main]]
-        weight = 2
+        weight = 3
         identifier = "tags"
         pre = ""
         post = ""
@@ -822,7 +831,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/tags/"
         title = ""
       [[languages.en.menu.main]]
-        weight = 3
+        weight = 4
         identifier = "categories"
         pre = ""
         post = ""
