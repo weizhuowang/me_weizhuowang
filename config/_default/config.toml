@@ -28,7 +28,7 @@ languageCode = "en"
 languageName = "English"
 # whether to include Chinese/Japanese/Korean
 # 是否包括中日韩文字
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 # default amount of posts in each pages
 # 默认每页列表显示的文章数目
@@ -67,6 +67,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
+    identifier = "research"
+    pre = ""
+    post = ""
+    name = "Research"
+    url = "/research/"
+    title = ""
+  [[menu.main]]
+    weight = 2
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
     # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -80,7 +88,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # 当您将鼠标悬停在此菜单链接上时, 将显示标题
     title = ""
   [[menu.main]]
-    weight = 2
+    weight = 3
     identifier = "tags"
     pre = ""
     post = ""
@@ -88,7 +96,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/tags/"
     title = ""
   [[menu.main]]
-    weight = 3
+    weight = 4
     identifier = "categories"
     pre = ""
     post = ""
@@ -244,9 +252,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # 是否在搜索索引中使用基于 baseURL 的绝对路径
     absoluteURL = false
     [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
+      index = "mysite"
+      appID = "1TVX3444QD"
+      searchKey = "03e8cc9860dff92d5d399c4f9779b072"
 
   # Home page config
   # 主页信息设置
@@ -856,9 +864,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         highlightTag = "em"
         absoluteURL = false
         [languages.en.params.search.algolia]
-          index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          index = "mysite"
+          appID = "1TVX3444QD"
+          searchKey = "03e8cc9860dff92d5d399c4f9779b072"
       [languages.en.params.home]
         rss = 0
         [languages.en.params.home.profile]
