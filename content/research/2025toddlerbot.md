@@ -9,6 +9,7 @@ Learning-based robotics research driven by data demands a new approach to robot 
 
 **Authors:** 
 Haochen Shi*, _Weizhuo Wang_*, Shuran Song†,  C. Karen Liu†
+
 *Equal contribution, †Equal advising
 
 **Links:**

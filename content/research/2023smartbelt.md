@@ -1,6 +1,6 @@
 ---
 title: "Trajectory and Sway Prediction Towards Fall Prevention"
-date: 2023-5-29T00:00:00-06:00
+date: 2023-05-29T00:00:00-06:00
 draft: false
 ---
 
